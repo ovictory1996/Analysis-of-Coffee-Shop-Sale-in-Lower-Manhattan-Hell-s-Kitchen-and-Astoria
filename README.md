@@ -2,6 +2,25 @@
 
 ![Coffee Sales](CoffeeSale.jpeg)
 
+## TABLE OF CONTENT
+
+- [Introduction](#Introduction)
+
+- [Data Description](#Data-Description)
+
+
+- [Data Analysis](#Data-Analysis)
+
+- [Skills demonstrated](#Skills-demonstrated)
+
+- [Visualizations](#Visualizations)
+
+- [Insight from analysis](#Insight-from-analysis)
+
+- [Summary of Analysis](#Summary-of-Analysis)
+
+- [Conclusion](#Conclusion)
+
 ## Introduction 
 This project involves the analysis of a transactional sales dataset from a retail coffee and bakery business operating across three different store locations. The dataset captures detailed information about each transaction, including the date and time of purchase, quantity sold, store location, product category, type, and unit price.The primary objective is to explore customer purchasing patterns, identify top selling products, evaluate sales performance by time and location, and uncover key trends in product demand. Through this analysis, the project aims to provide actionable insights that can support business decisions in areas such as inventory management, marketing strategies, and operational efficiency.
 ## Data Description: 

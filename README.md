@@ -61,26 +61,25 @@ Skills demonstrated
 
 ## Data Analysis:
 •	The following pivot tables and chat were created:
-I.	StoreLocation by Total revenue
-II.	WeekDay by no of  Revenue
-III.	Location by No of Revenue
-IV.	Weekday by Sum of Revenue
-V.	Product by No of Revenue 
-VI.	Month  by Sum of Revenue
-VII.	Hours by No of transaction
+ - StoreLocation by Total revenue
+ - WeekDay by no of  Revenue
+ - Location by No of Revenue
+ - Weekday by Sum of Revenue
+ - Product by No of Revenue 
+ - Month  by Sum of Revenue
+ - Hours by No of transaction
 
 ## Visualizations: 
 This project includes several visualizations to better understand sales trends, Salespersons and Months  behavior across three different store locations and product categories. Visualizations were created using tools like Excel.
-
-### Slicer Application: 
-Slicers were added via insert > Slicers allowing dynamic filtering by fields such as Month, Salesperson, Weekday, Hours three different Locations.
+#### Slicer Application: Slicers were added via insert > Slicers allowing dynamic filtering by fields such as Month, Salesperson, Weekday, Hours three different Locations.
+![Coffee Sales](CoffeeSale.jpeg)
 
 ## Insight from analysis:
 Morning Hours Drive Most Sales: Most transactions occurred between 7:00 AM and 8:00 AM, indicating peak customer activity in the early morning hours.
 Store Location Performance: Lower Manhattan saw the majority of transactions in this sample, contributing a higher total revenue compared to Hell’s Kitchen.
 Sunday was a High-Traffic Day: Sunday is a popular day for hot beverages and baked goods (e.g., family outings, brunch traffic).
-
 Popular Product Categories: Coffee remains the best-selling category overall, with items like Ethiopia Rg.
+
 ## Summary of Analysis:
 The Coffee Sales dataset was analyzed to uncover patterns in product performance, customer preferences, and sales behavior across three different  store locations. The data included 149117 transaction records featuring product details, store information, quantity sold, unit price, revenue, and timestamps with extracted time-based fields like month, weekday, and hour.
 

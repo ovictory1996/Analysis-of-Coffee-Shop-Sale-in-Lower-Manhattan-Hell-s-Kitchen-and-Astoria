@@ -91,3 +91,7 @@ The Coffee Sales dataset was analyzed to uncover patterns in product performance
 ## Conclusion:
 The Coffee Sales analysis provides valuable insights into customer purchasing behavior, product performance, and store activity. By examining transaction-level data enriched with time-based and financial metrics, we identified key trends in product preferences and peak sales periods.
 The data reveals that early mornings are the busiest hours for transactions, with coffee being the dominant product category. Flavored teas like Spicy Eye Opener Chai and premium beverages such as Drinking Chocolate also contribute significantly to revenue. Moreover, Lower Manhattan consistently generates higher transaction volumes, while Hell’s Kitchen sees fewer but higher-value purchases.
+
+
+## Back to Top
+- [Table of Content](#Table-of-Content)

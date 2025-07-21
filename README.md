@@ -72,7 +72,7 @@ Skills demonstrated
 ## Visualizations: 
 This project includes several visualizations to better understand sales trends, Salespersons and Months  behavior across three different store locations and product categories. Visualizations were created using tools like Excel.
 #### Slicer Application: Slicers were added via insert > Slicers allowing dynamic filtering by fields such as Month, Salesperson, Weekday, Hours three different Locations.
-![Coffee Sales](CoffeeSale.jpeg)
+![Coffee DAshboard](coffee_sales_Dashboard.PNG)
 
 ## Insight from analysis:
 Morning Hours Drive Most Sales: Most transactions occurred between 7:00 AM and 8:00 AM, indicating peak customer activity in the early morning hours.

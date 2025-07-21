@@ -42,14 +42,19 @@ The dataset contains transactional sales records from a coffee and bakery retail
  - weekdayNAME	Full name of the day (e.g., Sunday).
  - hour:The hour of the day the transaction took place (24-hour format).
 
+## Data Collection and Preparation 
 ## Data Sources: 
-The dataset used for this project was obtained from Coffee Sales Company. It contains detailed transaction records including dates, times, three different store locations, product categories, quantities sold, and pricing information. The data is provided in CSV format under the file name coffee_sales_data.csv.
+The dataset used for this project was obtained from Coffee Sales Company. It contains detailed transaction records including dates, times, three different store locations, product categories, quantities sold, and pricing information. The data is provided in CSV format under the file name coffee_sales_data.csv. [Download SALES DATASET.csv](SALES_RAW_DATA.xlsx)
+
+### Tools used: Excel
+    - Pivot Table
+    - pivot Chart
 
 Data Collection and Preparation 
 Raw Data Sheet: Include the raw data as a separate sheet. Label it clearly as "Raw Data 
 Tools used: Excel(Add Columns Pivot Table, Pivot charts, Slicers) 
 
-Skills demonstrated
+## Skills demonstrated
 1. Data Cleaning, Preparation  and Transformation:
  (a) Removing the duplicates
  (b) Adding Columns to Calculate Total Revenue, months, monthName,Weekday, 

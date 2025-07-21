@@ -69,6 +69,9 @@ Skills demonstrated
  - Month  by Sum of Revenue
  - Hours by No of transaction
 
+![Coffee pivot]( PivotTable_coffee.PNG)
+
+
 ## Visualizations: 
 This project includes several visualizations to better understand sales trends, Salespersons and Months  behavior across three different store locations and product categories. Visualizations were created using tools like Excel.
 #### Slicer Application: Slicers were added via insert > Slicers allowing dynamic filtering by fields such as Month, Salesperson, Weekday, Hours three different Locations.

@@ -53,13 +53,13 @@ The dataset used for this project was obtained from Coffee Sales Company. It con
 
 ## Skills demonstrated
 1. Data Cleaning, Preparation  and Transformation:
- (a) Removing the duplicates
- (b) Adding Columns to Calculate Total Revenue, months, monthName,Weekday, 
+- Removing the duplicates
+- Adding Columns to Calculate Total Revenue, months, monthName,Weekday, 
       WeekdayNames,Hour
-  (c)  It was formatted as table
-  (d) Data visualization 
-  (e)Dashboard development 
-  (f) Insight Generation 
+- It was formatted as table
+- Data visualization 
+- Dashboard development 
+- Insight Generation 
 
 ## Data Analysis:
 •	The following pivot tables and chat were created:
